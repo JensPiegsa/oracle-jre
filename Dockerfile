@@ -2,8 +2,8 @@ FROM          ubuntu:15.10
 MAINTAINER    Jens Piegsa <piegsa@gmail.com>
 
 ENV VERSION   8
-ENV UPDATE    60
-ENV BUILD     27
+ENV UPDATE    66
+ENV BUILD     17
 
 ENV JAVA_HOME /usr/lib/jvm/java-${VERSION}-oracle
 ENV JRE_HOME  ${JAVA_HOME}/jre
