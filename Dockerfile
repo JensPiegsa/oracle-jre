@@ -7,6 +7,7 @@ ENV BUILD     14
 
 ENV JAVA_HOME /usr/lib/jvm/java-${VERSION}-oracle
 ENV JRE_HOME  ${JAVA_HOME}/jre
+ENV PATH      ${JAVA_HOME}/bin:${PATH}
 
 RUN apt-get update && \
     apt-get install ca-certificates curl -y && \
