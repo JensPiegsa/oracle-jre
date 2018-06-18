@@ -1,9 +1,9 @@
-FROM          ubuntu:16.04
+FROM          ubuntu:18.04
 MAINTAINER    Jens Piegsa <piegsa@gmail.com>
 
 ENV VERSION   8
-ENV UPDATE    102
-ENV BUILD     14
+ENV UPDATE    172
+ENV BUILD     11
 
 ENV JAVA_HOME /usr/lib/jvm/java-${VERSION}-oracle
 ENV JRE_HOME  ${JAVA_HOME}/jre
