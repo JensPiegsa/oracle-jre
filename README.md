@@ -9,6 +9,7 @@ By using this Docker image, you are accepting the [Oracle Binary Code License Ag
 ## Tags ##
 
 * [`latest`](https://github.com/JensPiegsa/oracle-jre/blob/master/Dockerfile)
+* [`1.8.0_172-b11`](https://github.com/JensPiegsa/oracle-jre/blob/1.8.0_172-b11/Dockerfile)
 * [`1.8.0_102-b14`](https://github.com/JensPiegsa/oracle-jre/blob/1.8.0_102-b14/Dockerfile)
 * [`1.8.0_72-b15`](https://github.com/JensPiegsa/oracle-jre/blob/1.8.0_72-b15/Dockerfile)
 * [`1.8.0_66-b17`](https://github.com/JensPiegsa/oracle-jre/blob/1.8.0_66-b17/Dockerfile)
